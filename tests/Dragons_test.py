@@ -5,9 +5,7 @@ Created on Mon Apr 20 17:53:00 2020
 @author: Nathan
 """
 
-
-# import Dragons as sc
-from ..Dragons import *
+import Dragons as sc
 
 def testEFDragon():
     test = sc.EFDragon()
@@ -57,8 +55,9 @@ def testPrints():
     print(test2)
     print(test3)
     
-    
-testPrints()
-testEFDragon()
-testKFDragon()
-testDragonling()
+
+if __name__ == '__main__':
+    testPrints()
+    testEFDragon()
+    testKFDragon()
+    testDragonling()

@@ -10,13 +10,14 @@ Until startGame.py gets written, game starts from here
 
 import Player as pl
 import logging 
+import sys
 
-game_logger = logging.getLogger('dd.game') 
+logger_game = logging.getLogger('dd.game') 
 
 class Game(object):
     
     def __init__(self):
-        game_logger.info("Creating game object.") 
+        logger_game.info("Creating game object.") 
         self.player1 = pl.Player(1, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck.csv")
         self.player2 = pl.Player(2, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck2.csv")
         self.turn = 0
@@ -24,7 +25,7 @@ class Game(object):
         self.opponent = self.player2 
         
     def play(self):
-        game_logger.info("Starting game.") 
+        logger_game.info("Starting game.") 
         while self.player1.alive and self.player2.alive:
             self.setCurrentPlayer() 
             self.takeTurn() 
@@ -36,11 +37,12 @@ class Game(object):
             print("Congratulations, Player 2! You win!")
 
     def takeTurn(self):
+        logger_game.info("Player %d turn.", self.current) 
         print("\nPlayer ", self.current, " turn") 
         self.currentPlayer.upkeep()
         while True: #Input validation 
             print(self.currentPlayer.getCards()) 
-            choice = input("Would you like to attack? (y/n) ").lower() 
+            choice = input("Would you like to attack? (y/n/exit) ").lower() 
             if choice == 'n':
                 print("Chose not to attack.") 
                 break 
@@ -55,6 +57,8 @@ class Game(object):
                     else:
                         break 
                 break 
+            elif choice == 'exit':
+                sys.exit(0) 
             else:
                 print("Invalid entry.") 
 
@@ -68,7 +72,7 @@ class Game(object):
             self.currentPlayer = self.player2 
             self.opponent = self.player1         
         
-    
+#Should be done from startGame.py now
 # if __name__ == '__main__':
 #     game = Game()
 #     game.play() 

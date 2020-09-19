@@ -8,6 +8,9 @@ from Dragons import *
 from Golems import *
 from Creature import Attack 
 from Creature import Creature 
+import logging
+
+logger_player = logging.getLogger('dd.player') 
 
 class Player(object):
     

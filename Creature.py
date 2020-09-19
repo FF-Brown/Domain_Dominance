@@ -6,7 +6,9 @@ Created on Tue Apr 21 21:33:44 2020
 """
 
 # from Player import Player 
+import logging
 
+logging_creature = logging.getLogger('dd.creature') 
 
 class Attack(object):
     def __init__(self, tipo=[], dmg=0, energyCost=0, targets=1, divisible=False):
@@ -43,6 +45,7 @@ class Creature(object):
         
     def getAttack(self) -> int: 
         """Get user to choose an attack from list."""
+        logging_creature.info("Choosing attack from list.") 
         while True:
             for index, item in enumerate(self.attacks):
                 print(index + 1,". ", self.attacks[index]) 
@@ -55,6 +58,7 @@ class Creature(object):
             
     def attack(self) -> Attack:
         """Manage all other attacking functions in the Creature class."""
+        logging_creature.info("Attacking.") 
         while True:
             x = self.getAttack() #Put card attacks in this function? 
             temp = self.modAttack(self.attacks[x])              
@@ -77,10 +81,11 @@ class Creature(object):
     
     def takeDmg(self, atk: Attack):
         """Modify an incoming attack as necessary, then subtract damage from health."""
+        logging_creature.info("Modifying attack, then taking damage.") 
         newAtk = self.modDmg(atk) 
         self.health = self.health - newAtk.dmg
         self.dmgTaken += newAtk.dmg 
-        print("%s took %d damage. Health reduced to: " % self.name, newAtk.dmg, self.health) 
+        print("%s took %d damage. Health reduced to: %d" % (self.name, newAtk.dmg, self.health)) 
         
     def isAlive(self) -> bool:
         """Allow Player to check if Creature is alive."""
@@ -100,6 +105,7 @@ class Creature(object):
     def setElement(self): 
         """Have user choose an element for a Creature with variable element."""
         if len(self.elementList) > 0: #Only acts if there are items in the elementList
+            logging_creature.info("Selecting element.") 
             print("Available elements: ", self.elementList) 
             while not self.element in self.elementList:
                 print("Choose an element for your %s. " % self.name)
@@ -115,7 +121,7 @@ class Creature(object):
         return atk
     
     def modAllyAttack(self, atk: Attack) -> Attack:
-        """Allow Creature to modify an ally's outgoing attack. TO be overwritten."""
+        """Allow Creature to modify an ally's outgoing attack. To be overwritten."""
         return atk 
     
     def externalUpkeep(self):

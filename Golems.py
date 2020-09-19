@@ -7,9 +7,13 @@ Created on Tue Apr 21 02:14:35 2020
 
 from Creature import Creature
 from Creature import Attack
+import logging
+
+logger_golems = logging.getLogger('dd.golems') 
 
 class SpGolem(Creature):
     def __init__(self):
+        logger_golems.info("Creating SpGolem.") 
         super(SpGolem,self).__init__("Spike Golem", ["Golem"], 40, "Whenever a creature attacks this creature with a melee attack,"+ \
                                      " this creature deals 2 damage to that creature.", 2)
         self.attacks.append(Attack("", 4, 4))
@@ -19,6 +23,7 @@ class SpGolem(Creature):
 
 class CGolem(Creature):
     def __init__(self):
+        logger_golems.info("Creating CGolem.") 
         self.element = "void"
         super(CGolem,self).__init__("Golem", ["Golem"], 55, "+2 (Fire/Water/Ice) Protection", 2, ["Fire", "Water", "Ice"]) 
         self.attacks.append(Attack(self.element, 1, 1))
@@ -31,6 +36,7 @@ class CGolem(Creature):
 
 class MiGolem(Creature):
     def __init__(self):
+        logger_golems.info("Creating MiGolem.") 
         super(MiGolem, self).__init__("Mirrored Golem", ["Golem"], 50, "Whenever a creature attacks and deals damage" + \
                                       " to this creature that creature takes damage equal to half (rounded down)" + \
                                           " the damage taken by this creature.", 2)

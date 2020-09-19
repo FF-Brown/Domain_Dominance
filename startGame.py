@@ -21,12 +21,13 @@ ch.setLevel(logging.WARNING)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt =  "%Y-%m-%d %H:%M")
 fh.setFormatter(formatter)
 ch.setFormatter(formatter)
-logger.addHandler(fh)
-logger.addHandler(ch)
+if not logger.handlers:
+    logger.addHandler(fh)
+    logger.addHandler(ch)
 
 
 # print("Hasn't broken yet.")
-logger.info('Not broken yet')
+logger.info('~~~~~~~~~~~~')
 # logger.warning("Is it broken? Probably not.") 
 
 game = Game()

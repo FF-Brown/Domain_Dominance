@@ -7,10 +7,14 @@ Created on Mon Apr 20 17:32:54 2020
 
 from Creature import Creature
 from Creature import Attack
-    
+import logging
+
+logger_dragons = logging.getLogger('dd.dragons') 
+
 class EFDragon(Creature):
         
     def __init__(self):
+        logger_dragons.info("Creating EFDragon.") 
         super(EFDragon, self).__init__("Elder Fire Dragon", ["Fire", "Dragon"], 70, \
                                        "+2 Fire Attacks\n-2 Fire Damage\n+1 Attack/Rage\n" + \
                                            "For every 5 damage taken +1 Rage\n" + \
@@ -38,6 +42,7 @@ class EFDragon(Creature):
 class KFDragon(Creature):
     
     def __init__(self):
+        logger_dragons.info("Creating KFDragon.") 
         super(KFDragon, self).__init__("King Fire Dragon", ["Fire", "Dragon"], 60, \
                                        "+1 fire damage/other living non-minion fire creature you control\n"+ \
                                            "For every 5 damage taken +1 Rage\nFor every 5 health healed -1 Rage\n"+ \
@@ -74,6 +79,7 @@ class KFDragon(Creature):
 class Dragonling(Creature):
     
     def __init__(self):
+        logger_dragons.info("Creating Dragonling.") 
         self.element = "void"
         super(Dragonling, self).__init__("Dragonling", ["Dragon"], 40, \
                                          "(Fire/Ice/Water) and dragon attacks cost 2E less for this creature (cannot cost less than 1E)"+ \
@@ -101,6 +107,7 @@ class Dragonling(Creature):
         
         Must be called AFTER first call of player.updateAllyData() 
         """
+        logger_dragons.info("Dragonling is borrowing attacks.") 
         print(self.allies) 
         #Not bothering to do input validation yet 
         #Prevent choosing creatures without any printed attacks

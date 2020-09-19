@@ -5,14 +5,9 @@ Created on Sun May 10 19:43:37 2020
 @author: Nathan
 """
 
-# from Creature import Attack 
-# from Dragons import Dragonling, EFDragon 
-# from Golems import SpGolem, CGolem 
-
-from ..Creature import Attack
-from ..Dragons import Dragonling, EFDragon
-from ..Golems import SpGolem, CGolem
-
+from Creature import Attack 
+from Dragons import Dragonling, EFDragon 
+from Golems import SpGolem, CGolem 
 
 def testAddEnergy():
     test = SpGolem()
@@ -27,13 +22,18 @@ def testAddEnergy():
     
     print("addEnergy(): All tests passed.")
     
-def testTakeDmg(p1, p2):
+def testTakeDmg():
     punch = Attack("Physical", 3)
     test = EFDragon() 
     preHealth = test.health 
     test.takeDmg(punch)
     assert test.health == preHealth - 3, "Should be" + str(preHealth - 3)
-    print("takeDmg(): Test passed") 
+    print("takeDmg(): Dragon test passed") 
+    test = SpGolem() 
+    preHealth = test.health 
+    test.takeDmg(punch)
+    assert test.health == preHealth - 3, "Should be" + str(preHealth - 3)
+    print("takeDmg(): Golem test passed") 
 
 def testSetElement():
     print("Test msg: Choose 'Fire' first")
@@ -76,7 +76,8 @@ def testModAttack():
 
 
 if __name__ == '__main__':
-    testSetElement() 
+    # testSetElement() 
     # testAddEnergy() 
     # testModAttack() 
+    testTakeDmg()
 

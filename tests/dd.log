@@ -1,3 +1,161 @@
 2020-09-17 23:06 - dd - INFO - Not broken yet
 2020-09-17 23:32 - dd - INFO - Not broken yet
 2020-09-17 23:32 - dd.game - INFO - Creating game object.
+2020-09-18 21:42 - dd - INFO - Not broken yet
+2020-09-18 21:42 - dd.game - INFO - Creating game object.
+2020-09-18 21:42 - dd.game - INFO - Starting game.
+2020-09-18 22:29 - dd.game - INFO - Creating game object.
+2020-09-18 22:29 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 22:29 - dd.creature - INFO - Selecting element.
+2020-09-18 22:29 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 22:29 - dd.creature - INFO - Selecting element.
+2020-09-18 22:29 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 22:29 - dd.creature - INFO - Selecting element.
+2020-09-18 22:30 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-09-18 22:32 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 22:32 - dd.creature - INFO - Selecting element.
+2020-09-18 22:32 - dd.golems - INFO - Creating CGolem.
+2020-09-18 22:32 - dd.creature - INFO - Selecting element.
+2020-09-18 22:34 - dd.golems - INFO - Creating MiGolem.
+2020-09-18 22:34 - dd.creature - INFO - Selecting element.
+2020-09-18 22:35 - dd.game - INFO - Starting game.
+2020-09-18 22:35 - dd.game - INFO - Player 1 turn.
+2020-09-18 22:35 - dd.game - INFO - Player 2 turn.
+2020-09-18 22:35 - dd.game - INFO - Player 1 turn.
+2020-09-18 22:35 - dd.creature - INFO - Attacking.
+2020-09-18 22:35 - dd.creature - INFO - Choosing attack from list.
+2020-09-18 22:36 - dd.creature - INFO - Modifying attack, then taking damage.
+2020-09-18 22:45 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 22:45 - dd.creature - INFO - Selecting element.
+2020-09-18 22:45 - dd.creature - INFO - Modifying attack, then taking damage.
+2020-09-18 22:47 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 22:47 - dd.creature - INFO - Selecting element.
+2020-09-18 22:47 - dd.creature - INFO - Modifying attack, then taking damage.
+2020-09-18 22:47 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 22:47 - dd.creature - INFO - Selecting element.
+2020-09-18 22:47 - dd.creature - INFO - Modifying attack, then taking damage.
+2020-09-18 22:55 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 22:55 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 22:55 - dd.game - INFO - Creating game object.
+2020-09-18 22:55 - dd.game - INFO - Creating game object.
+2020-09-18 22:55 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 22:55 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 22:55 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 22:55 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-09-18 22:55 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-09-18 22:55 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 22:55 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.golems - INFO - Creating CGolem.
+2020-09-18 22:55 - dd.golems - INFO - Creating CGolem.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.golems - INFO - Creating MiGolem.
+2020-09-18 22:55 - dd.golems - INFO - Creating MiGolem.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:55 - dd.creature - INFO - Selecting element.
+2020-09-18 22:56 - dd.game - INFO - Starting game.
+2020-09-18 22:56 - dd.game - INFO - Starting game.
+2020-09-18 22:56 - dd.game - INFO - Player 1 turn.
+2020-09-18 22:56 - dd.game - INFO - Player 1 turn.
+2020-09-18 22:56 - dd.game - INFO - Player 2 turn.
+2020-09-18 22:56 - dd.game - INFO - Player 2 turn.
+2020-09-18 22:56 - dd.game - INFO - Player 1 turn.
+2020-09-18 22:56 - dd.game - INFO - Player 1 turn.
+2020-09-18 22:56 - dd.creature - INFO - Attacking.
+2020-09-18 22:56 - dd.creature - INFO - Attacking.
+2020-09-18 22:56 - dd.creature - INFO - Choosing attack from list.
+2020-09-18 22:56 - dd.creature - INFO - Choosing attack from list.
+2020-09-18 22:56 - dd.creature - INFO - Modifying attack, then taking damage.
+2020-09-18 22:56 - dd.creature - INFO - Modifying attack, then taking damage.
+2020-09-18 22:56 - dd.game - INFO - Player 2 turn.
+2020-09-18 22:56 - dd.game - INFO - Player 2 turn.
+2020-09-18 22:59 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 22:59 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 22:59 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 22:59 - dd.game - INFO - Creating game object.
+2020-09-18 22:59 - dd.game - INFO - Creating game object.
+2020-09-18 22:59 - dd.game - INFO - Creating game object.
+2020-09-18 22:59 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 22:59 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 22:59 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 22:59 - dd.creature - INFO - Selecting element.
+2020-09-18 22:59 - dd.creature - INFO - Selecting element.
+2020-09-18 22:59 - dd.creature - INFO - Selecting element.
+2020-09-18 23:01 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:01 - dd.game - INFO - Creating game object.
+2020-09-18 23:01 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:01 - dd.creature - INFO - Selecting element.
+2020-09-18 23:02 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:02 - dd.creature - INFO - Selecting element.
+2020-09-18 23:02 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:02 - dd.creature - INFO - Selecting element.
+2020-09-18 23:02 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-09-18 23:02 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 23:02 - dd.creature - INFO - Selecting element.
+2020-09-18 23:02 - dd.golems - INFO - Creating CGolem.
+2020-09-18 23:02 - dd.creature - INFO - Selecting element.
+2020-09-18 23:02 - dd.golems - INFO - Creating MiGolem.
+2020-09-18 23:02 - dd.creature - INFO - Selecting element.
+2020-09-18 23:03 - dd.game - INFO - Starting game.
+2020-09-18 23:03 - dd.game - INFO - Player 1 turn.
+2020-09-18 23:04 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:04 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:04 - dd.game - INFO - Creating game object.
+2020-09-18 23:04 - dd.game - INFO - Creating game object.
+2020-09-18 23:04 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:04 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:04 - dd.creature - INFO - Selecting element.
+2020-09-18 23:04 - dd.creature - INFO - Selecting element.
+2020-09-18 23:04 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:04 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:04 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:04 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:05 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:05 - dd.game - INFO - Creating game object.
+2020-09-18 23:05 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:05 - dd.creature - INFO - Selecting element.
+2020-09-18 23:05 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:05 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:06 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:06 - dd.game - INFO - Creating game object.
+2020-09-18 23:06 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:06 - dd.creature - INFO - Selecting element.
+2020-09-18 23:06 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:06 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:06 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:06 - dd.game - INFO - Creating game object.
+2020-09-18 23:06 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:06 - dd.creature - INFO - Selecting element.
+2020-09-18 23:06 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:06 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:06 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-09-18 23:06 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 23:06 - dd.golems - INFO - Creating CGolem.
+2020-09-18 23:06 - dd.creature - INFO - Selecting element.
+2020-09-18 23:06 - dd.golems - INFO - Creating MiGolem.
+2020-09-18 23:06 - dd.game - INFO - Starting game.
+2020-09-18 23:06 - dd.game - INFO - Player 1 turn.
+2020-09-18 23:06 - dd - INFO - ~~~~~~~~~~~~
+2020-09-18 23:06 - dd.game - INFO - Creating game object.
+2020-09-18 23:06 - dd.dragons - INFO - Creating Dragonling.
+2020-09-18 23:06 - dd.creature - INFO - Selecting element.
+2020-09-18 23:06 - dd.dragons - INFO - Creating EFDragon.
+2020-09-18 23:06 - dd.dragons - INFO - Creating KFDragon.
+2020-09-18 23:06 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-09-18 23:06 - dd.golems - INFO - Creating SpGolem.
+2020-09-18 23:06 - dd.golems - INFO - Creating CGolem.
+2020-09-18 23:06 - dd.creature - INFO - Selecting element.
+2020-09-18 23:06 - dd.golems - INFO - Creating MiGolem.
+2020-09-18 23:06 - dd.game - INFO - Starting game.
+2020-09-18 23:06 - dd.game - INFO - Player 1 turn.
