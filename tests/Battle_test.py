@@ -7,8 +7,8 @@ Created on Fri Apr 24 21:23:57 2020
 
 # import pytest 
 
-import Player as pl
-from Creature import Attack
+from ..Player import Player as pl
+from ..Creature import Attack
 
 def testTakeDmg(p1, p2):
     punch = Attack("Physical", 3)

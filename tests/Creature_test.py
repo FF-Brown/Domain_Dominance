@@ -5,9 +5,14 @@ Created on Sun May 10 19:43:37 2020
 @author: Nathan
 """
 
-from Creature import Attack 
-from Dragons import Dragonling, EFDragon 
-from Golems import SpGolem, CGolem 
+# from Creature import Attack 
+# from Dragons import Dragonling, EFDragon 
+# from Golems import SpGolem, CGolem 
+
+from ..Creature import Attack
+from ..Dragons import Dragonling, EFDragon
+from ..Golems import SpGolem, CGolem
+
 
 def testAddEnergy():
     test = SpGolem()

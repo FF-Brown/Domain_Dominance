@@ -6,7 +6,8 @@ Created on Mon Apr 20 17:53:00 2020
 """
 
 
-import Dragons as sc
+# import Dragons as sc
+from ..Dragons import *
 
 def testEFDragon():
     test = sc.EFDragon()

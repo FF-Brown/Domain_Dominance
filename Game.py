@@ -3,14 +3,20 @@
 Created on Tue Apr 21 22:27:24 2020
 
 @author: Nathan
+
+Until startGame.py gets written, game starts from here
 """
 
 
 import Player as pl
+import logging 
+
+game_logger = logging.getLogger('dd.game') 
 
 class Game(object):
     
     def __init__(self):
+        game_logger.info("Creating game object.") 
         self.player1 = pl.Player(1, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck.csv")
         self.player2 = pl.Player(2, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck2.csv")
         self.turn = 0
@@ -18,6 +24,7 @@ class Game(object):
         self.opponent = self.player2 
         
     def play(self):
+        game_logger.info("Starting game.") 
         while self.player1.alive and self.player2.alive:
             self.setCurrentPlayer() 
             self.takeTurn() 
@@ -62,6 +69,6 @@ class Game(object):
             self.opponent = self.player1         
         
     
-if __name__ == '__main__':
-    game = Game()
-    game.play() 
+# if __name__ == '__main__':
+#     game = Game()
+#     game.play() 

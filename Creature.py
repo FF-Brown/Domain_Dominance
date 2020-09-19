@@ -7,6 +7,7 @@ Created on Tue Apr 21 21:33:44 2020
 
 # from Player import Player 
 
+
 class Attack(object):
     def __init__(self, tipo=[], dmg=0, energyCost=0, targets=1, divisible=False):
         if tipo == []:

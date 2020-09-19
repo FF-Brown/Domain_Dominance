@@ -6,8 +6,10 @@ Created on Tue Apr 21 01:46:39 2020
 """
 
 
-import Player as pl
-from Creature import Attack 
+# import Player as pl
+# from Creature import Attack 
+from ..Player import Player as pl
+from ..Creature import Attack
 
 def testPlayer1():
     test = pl.Player(1, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck.csv")
