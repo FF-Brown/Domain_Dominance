@@ -27,7 +27,7 @@ if not logger.handlers:
 
 
 # print("Hasn't broken yet.")
-logger.info('~~~~~~~~~~~~')
+logger.info('~~~~~~~~~~~~\n')
 # logger.warning("Is it broken? Probably not.") 
 
 game = Game()

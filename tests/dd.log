@@ -159,3 +159,855 @@
 2020-09-18 23:06 - dd.golems - INFO - Creating MiGolem.
 2020-09-18 23:06 - dd.game - INFO - Starting game.
 2020-09-18 23:06 - dd.game - INFO - Player 1 turn.
+2020-12-03 20:48 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 20:48 - dd.game - INFO - Creating game object.
+2020-12-03 20:50 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 20:50 - dd.game - INFO - Creating game object.
+2020-12-03 20:50 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 20:50 - dd.creature - INFO - Selecting element.
+2020-12-03 20:50 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 20:50 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 20:50 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 20:50 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 20:50 - dd.golems - INFO - Creating CGolem.
+2020-12-03 20:50 - dd.creature - INFO - Selecting element.
+2020-12-03 20:50 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 20:50 - dd.game - INFO - Starting game.
+2020-12-03 20:50 - dd.game - INFO - Player 1 turn.
+2020-12-03 20:50 - dd.game - INFO - Player 2 turn.
+2020-12-03 20:51 - dd.game - INFO - Player 1 turn.
+2020-12-03 20:51 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 20:53 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 20:53 - dd.game - INFO - Creating game object.
+2020-12-03 20:53 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 20:53 - dd.creature - INFO - Selecting element.
+2020-12-03 20:53 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 20:53 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 20:53 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 20:53 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 20:53 - dd.golems - INFO - Creating CGolem.
+2020-12-03 20:53 - dd.creature - INFO - Selecting element.
+2020-12-03 20:53 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 20:53 - dd.game - INFO - Starting game.
+2020-12-03 20:53 - dd.game - INFO - Player 1 turn.
+2020-12-03 20:53 - dd.game - INFO - Player 2 turn.
+2020-12-03 20:53 - dd.game - INFO - Player 1 turn.
+2020-12-03 20:53 - dd.game - INFO - Player 2 turn.
+2020-12-03 20:53 - dd.game - INFO - Player 1 turn.
+2020-12-03 20:53 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 20:53 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 20:55 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 20:55 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 20:55 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 21:20 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 21:20 - dd.game - INFO - Creating game object.
+2020-12-03 21:20 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 21:20 - dd.creature - INFO - Selecting element.
+2020-12-03 21:21 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 21:21 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 21:21 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 21:21 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 21:21 - dd.golems - INFO - Creating CGolem.
+2020-12-03 21:21 - dd.creature - INFO - Selecting element.
+2020-12-03 21:21 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 21:21 - dd.game - INFO - Starting game.
+2020-12-03 21:21 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:21 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:21 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:21 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:21 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:25 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 21:25 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 21:25 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 21:25 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 21:25 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 21:25 - dd.player - INFO - atkList type: <class 'NoneType'>
+2020-12-03 21:25 - dd.player - INFO - atkList contents: None
+2020-12-03 21:27 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 21:27 - dd.game - INFO - Creating game object.
+2020-12-03 21:27 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 21:27 - dd.creature - INFO - Selecting element.
+2020-12-03 21:27 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 21:27 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 21:27 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 21:27 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 21:27 - dd.golems - INFO - Creating CGolem.
+2020-12-03 21:27 - dd.creature - INFO - Selecting element.
+2020-12-03 21:27 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 21:27 - dd.game - INFO - Starting game.
+2020-12-03 21:27 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:27 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:27 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:27 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:27 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:27 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 21:27 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 21:27 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 21:27 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 21:27 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 21:27 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 21:27 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 21:27 - dd.player - INFO - atkList type: <class 'NoneType'>
+2020-12-03 21:27 - dd.player - INFO - atkList contents: None
+2020-12-03 21:30 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 21:30 - dd.game - INFO - Creating game object.
+2020-12-03 21:30 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 21:30 - dd.creature - INFO - Selecting element.
+2020-12-03 21:30 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 21:30 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 21:30 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 21:30 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 21:30 - dd.golems - INFO - Creating CGolem.
+2020-12-03 21:30 - dd.creature - INFO - Selecting element.
+2020-12-03 21:30 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 21:30 - dd.game - INFO - Starting game.
+2020-12-03 21:30 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:30 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:30 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:30 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:30 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:30 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 21:30 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 21:30 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 21:30 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 21:30 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 21:30 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 21:30 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 21:30 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-03 21:30 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 21:30 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 21:30 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 21:30 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 21:30 - dd.dragons - INFO - Appending attack.
+2020-12-03 21:30 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 21:31 - dd.player - INFO - Before Dmg:2
+2020-12-03 21:31 - dd.player - INFO - Remaining damage. Dmg:2
+2020-12-03 21:38 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 21:38 - dd.game - INFO - Creating game object.
+2020-12-03 21:38 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 21:38 - dd.creature - INFO - Selecting element.
+2020-12-03 21:38 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 21:38 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 21:38 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 21:38 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 21:38 - dd.golems - INFO - Creating CGolem.
+2020-12-03 21:38 - dd.creature - INFO - Selecting element.
+2020-12-03 21:38 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 21:38 - dd.game - INFO - Starting game.
+2020-12-03 21:38 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:38 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:38 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:38 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:38 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:38 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 21:38 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 21:38 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 21:38 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 21:38 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 21:38 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 21:38 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 21:38 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 21:38 - dd.dragons - INFO - Appending attack.
+2020-12-03 21:38 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 21:38 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 21:38 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 21:38 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 21:38 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 21:39 - dd.player - INFO - Before Dmg:2
+2020-12-03 21:39 - dd.player - INFO - Remaining damage. Dmg:2
+2020-12-03 21:39 - dd.player - INFO - atk type: <class 'list'>
+2020-12-03 21:39 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 21:41 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 21:41 - dd.game - INFO - Creating game object.
+2020-12-03 21:41 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 21:41 - dd.creature - INFO - Selecting element.
+2020-12-03 21:42 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 21:42 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 21:42 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 21:42 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 21:42 - dd.golems - INFO - Creating CGolem.
+2020-12-03 21:42 - dd.creature - INFO - Selecting element.
+2020-12-03 21:42 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 21:42 - dd.game - INFO - Starting game.
+2020-12-03 21:42 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:42 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:42 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:42 - dd.game - INFO - Player 2 turn.
+2020-12-03 21:42 - dd.game - INFO - Player 1 turn.
+2020-12-03 21:43 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 21:43 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 21:43 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 21:43 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 21:43 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 21:43 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 21:43 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 21:43 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 21:43 - dd.dragons - INFO - Appending attack.
+2020-12-03 21:43 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 21:43 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 21:43 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 21:43 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 21:43 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 21:44 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 21:44 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 21:44 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-03 21:44 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 21:44 - dd.player - INFO - Before Dmg:2
+2020-12-03 21:44 - dd.player - INFO - Remaining damage. Dmg:2
+2020-12-03 21:44 - dd.player - INFO - atk type: <class 'list'>
+2020-12-03 21:44 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 21:44 - dd.player - INFO - atk contents: [2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-03 21:44 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, [2 points ['Fire'] damage to Mirrored Golem for 0 energy]]
+2020-12-03 21:57 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 21:57 - dd.game - INFO - Creating game object.
+2020-12-03 21:57 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 21:57 - dd.creature - INFO - Selecting element.
+2020-12-03 21:57 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 21:57 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 21:57 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 21:57 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 21:57 - dd.golems - INFO - Creating CGolem.
+2020-12-03 21:57 - dd.creature - INFO - Selecting element.
+2020-12-03 22:01 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 22:01 - dd.game - INFO - Starting game.
+2020-12-03 22:01 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:01 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:01 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:01 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:01 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:01 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 22:01 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 22:01 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 22:01 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 22:01 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 22:01 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-03 22:01 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:01 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 22:01 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:01 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 22:01 - dd.dragons - INFO - Appending attack.
+2020-12-03 22:01 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:01 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:01 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:01 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 22:01 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:01 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:01 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:01 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-03 22:01 - dd.player - INFO - atks contents: [3 points Fire damage to Fire Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:01 - dd.player - INFO - atk type: <class 'list'>
+2020-12-03 22:01 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:01 - dd.player - INFO - atk contents: [2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-03 22:01 - dd.player - INFO - atks contents: [3 points Fire damage to Fire Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, [2 points ['Fire'] damage to Mirrored Golem for 0 energy]]
+2020-12-03 22:12 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 22:12 - dd.game - INFO - Creating game object.
+2020-12-03 22:12 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 22:12 - dd.creature - INFO - Selecting element.
+2020-12-03 22:12 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 22:12 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 22:12 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 22:12 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 22:12 - dd.golems - INFO - Creating CGolem.
+2020-12-03 22:12 - dd.creature - INFO - Selecting element.
+2020-12-03 22:12 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 22:12 - dd.game - INFO - Starting game.
+2020-12-03 22:12 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:12 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:12 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:12 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:12 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:12 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 22:12 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 22:12 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 22:12 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 22:12 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 22:12 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-03 22:12 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:12 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 22:12 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:12 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 22:12 - dd.dragons - INFO - Appending attack.
+2020-12-03 22:12 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:12 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:12 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:12 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 22:12 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:13 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 22:13 - dd.game - INFO - Creating game object.
+2020-12-03 22:13 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 22:13 - dd.creature - INFO - Selecting element.
+2020-12-03 22:13 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 22:13 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 22:13 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 22:13 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 22:13 - dd.golems - INFO - Creating CGolem.
+2020-12-03 22:13 - dd.creature - INFO - Selecting element.
+2020-12-03 22:13 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 22:13 - dd.game - INFO - Starting game.
+2020-12-03 22:13 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:13 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:13 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:13 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:13 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:13 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 22:13 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 22:13 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 22:13 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 22:13 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 22:13 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-03 22:13 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:13 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 22:13 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:13 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 22:13 - dd.dragons - INFO - Appending attack.
+2020-12-03 22:13 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:13 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:13 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:13 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 22:13 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:13 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 22:13 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:13 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:13 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-03 22:13 - dd.player - INFO - atks contents: [3 points Fire damage to Fire Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:13 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-03 22:14 - dd.player - INFO - atk type: <class 'list'>
+2020-12-03 22:14 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:14 - dd.player - INFO - atk contents: [2 points ['Fire'] damage to Fire Golem for 0 energy]
+2020-12-03 22:14 - dd.player - INFO - atks contents: [3 points Fire damage to Fire Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, [2 points ['Fire'] damage to Fire Golem for 0 energy]]
+2020-12-03 22:19 - dd - INFO - ~~~~~~~~~~~~
+2020-12-03 22:19 - dd.game - INFO - Creating game object.
+2020-12-03 22:19 - dd.dragons - INFO - Creating Dragonling.
+2020-12-03 22:19 - dd.creature - INFO - Selecting element.
+2020-12-03 22:20 - dd.dragons - INFO - Creating EFDragon.
+2020-12-03 22:20 - dd.dragons - INFO - Creating KFDragon.
+2020-12-03 22:20 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-03 22:20 - dd.golems - INFO - Creating SpGolem.
+2020-12-03 22:20 - dd.golems - INFO - Creating CGolem.
+2020-12-03 22:20 - dd.creature - INFO - Selecting element.
+2020-12-03 22:20 - dd.golems - INFO - Creating MiGolem.
+2020-12-03 22:20 - dd.game - INFO - Starting game.
+2020-12-03 22:20 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:20 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:20 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:20 - dd.game - INFO - Player 2 turn.
+2020-12-03 22:20 - dd.game - INFO - Player 1 turn.
+2020-12-03 22:20 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-03 22:20 - dd.creature - INFO - Choosing attack from list.
+2020-12-03 22:20 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-03 22:20 - dd.dragons - INFO - Reducing energy cost.
+2020-12-03 22:20 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-03 22:20 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-03 22:20 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:20 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-03 22:20 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-03 22:20 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-03 22:20 - dd.dragons - INFO - Appending attack.
+2020-12-03 22:20 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:20 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:20 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:20 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 22:20 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:20 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-03 22:20 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:20 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:20 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-03 22:20 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-03 22:20 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-03 22:20 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-03 22:20 - dd.player - INFO - atks type: <class 'list'>
+2020-12-03 22:20 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-03 22:20 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Fire Golem for 0 energy]
+2020-12-03 22:20 - dd.player - INFO - Assigning target for: 2 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-13 14:01 - dd - INFO - ~~~~~~~~~~~~
+2020-12-13 14:01 - dd.game - INFO - Creating game object.
+2020-12-13 14:01 - dd.dragons - INFO - Creating Dragonling.
+2020-12-13 14:01 - dd.creature - INFO - Selecting element.
+2020-12-13 14:01 - dd.dragons - INFO - Creating EFDragon.
+2020-12-13 14:01 - dd.dragons - INFO - Creating KFDragon.
+2020-12-13 14:01 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-13 14:02 - dd.golems - INFO - Creating SpGolem.
+2020-12-13 14:02 - dd.golems - INFO - Creating CGolem.
+2020-12-13 14:02 - dd.creature - INFO - Selecting element.
+2020-12-13 14:02 - dd.golems - INFO - Creating MiGolem.
+2020-12-13 14:02 - dd.game - INFO - Starting game.
+2020-12-13 14:02 - dd.game - INFO - Player 1 turn.
+2020-12-13 14:02 - dd.game - INFO - Player 2 turn.
+2020-12-13 14:02 - dd.game - INFO - Player 1 turn.
+2020-12-13 14:02 - dd.game - INFO - Player 2 turn.
+2020-12-13 14:02 - dd.game - INFO - Player 1 turn.
+2020-12-13 14:02 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-13 14:02 - dd.creature - INFO - Choosing attack from list.
+2020-12-13 14:02 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-13 14:02 - dd.dragons - INFO - Reducing energy cost.
+2020-12-13 14:02 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-13 14:02 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-13 14:02 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 14:02 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-13 14:02 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 14:02 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-13 14:02 - dd.dragons - INFO - Appending attack.
+2020-12-13 14:02 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 14:02 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 14:02 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 14:02 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 14:02 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 14:02 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 14:03 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 14:03 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 14:03 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 14:03 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 14:03 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 14:03 - dd.player - INFO - In divideAttack()...
+2020-12-13 14:03 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 14:03 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 14:03 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-13 14:03 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Fire Golem for 0 energy]
+2020-12-13 14:03 - dd.player - INFO - Assigning target for: 2 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-13 14:04 - dd.player - INFO - In receiveAttack()...
+2020-12-13 14:04 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 14:04 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 14:04 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-13 14:04 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 14:04 - dd.player - INFO - attack contents: 2 points ['Fire'] damage to 0 creatures for 0 energy
+2020-12-13 15:00 - dd - INFO - ~~~~~~~~~~~~
+2020-12-13 15:00 - dd.game - INFO - Creating game object.
+2020-12-13 15:00 - dd.dragons - INFO - Creating Dragonling.
+2020-12-13 15:00 - dd.creature - INFO - Selecting element.
+2020-12-13 15:00 - dd.dragons - INFO - Creating EFDragon.
+2020-12-13 15:00 - dd.dragons - INFO - Creating KFDragon.
+2020-12-13 15:00 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-13 15:00 - dd.golems - INFO - Creating SpGolem.
+2020-12-13 15:00 - dd.golems - INFO - Creating CGolem.
+2020-12-13 15:00 - dd.creature - INFO - Selecting element.
+2020-12-13 15:00 - dd.golems - INFO - Creating MiGolem.
+2020-12-13 15:01 - dd.game - INFO - Starting game.
+2020-12-13 15:01 - dd.game - INFO - Player 1 turn.
+2020-12-13 15:01 - dd.game - INFO - Player 2 turn.
+2020-12-13 15:01 - dd.game - INFO - Player 1 turn.
+2020-12-13 15:01 - dd.game - INFO - Player 2 turn.
+2020-12-13 15:01 - dd.game - INFO - Player 1 turn.
+2020-12-13 15:01 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-13 15:01 - dd.creature - INFO - Choosing attack from list.
+2020-12-13 15:01 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-13 15:01 - dd.dragons - INFO - Reducing energy cost.
+2020-12-13 15:01 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-13 15:01 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-13 15:01 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 15:01 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-13 15:01 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 15:01 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-13 15:01 - dd.dragons - INFO - Appending attack.
+2020-12-13 15:01 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 15:01 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 15:01 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 15:01 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 15:01 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 15:01 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 15:01 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 15:01 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 15:01 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 15:01 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 15:01 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 15:01 - dd.player - INFO - In divideAttack()...
+2020-12-13 15:06 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 15:06 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 15:06 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to Spike Golem for 0 energy
+2020-12-13 15:06 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Spike Golem for 0 energy]
+2020-12-13 15:06 - dd.player - INFO - Assigning target for: 2 points ['Fire'] damage to Spike Golem for 0 energy
+2020-12-13 15:14 - dd - INFO - ~~~~~~~~~~~~
+2020-12-13 15:14 - dd.game - INFO - Creating game object.
+2020-12-13 15:14 - dd.dragons - INFO - Creating Dragonling.
+2020-12-13 15:14 - dd.creature - INFO - Selecting element.
+2020-12-13 15:14 - dd.dragons - INFO - Creating EFDragon.
+2020-12-13 15:14 - dd.dragons - INFO - Creating KFDragon.
+2020-12-13 15:14 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-13 15:14 - dd.golems - INFO - Creating SpGolem.
+2020-12-13 15:14 - dd.golems - INFO - Creating CGolem.
+2020-12-13 15:14 - dd.creature - INFO - Selecting element.
+2020-12-13 15:14 - dd.golems - INFO - Creating MiGolem.
+2020-12-13 15:14 - dd.game - INFO - Starting game.
+2020-12-13 15:14 - dd.game - INFO - Player 1 turn.
+2020-12-13 15:15 - dd.game - INFO - Player 2 turn.
+2020-12-13 15:15 - dd.game - INFO - Player 1 turn.
+2020-12-13 15:15 - dd.game - INFO - Player 2 turn.
+2020-12-13 15:15 - dd.game - INFO - Player 1 turn.
+2020-12-13 15:15 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-13 15:15 - dd.creature - INFO - Choosing attack from list.
+2020-12-13 15:15 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-13 15:15 - dd.dragons - INFO - Reducing energy cost.
+2020-12-13 15:15 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-13 15:15 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-13 15:15 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 15:15 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-13 15:15 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 15:15 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-13 15:15 - dd.dragons - INFO - Appending attack.
+2020-12-13 15:15 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 15:15 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 15:15 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 15:15 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 15:15 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 15:15 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 15:15 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 15:15 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 15:15 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 15:15 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 15:15 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 15:15 - dd.player - INFO - In divideAttack()...
+2020-12-13 15:16 - dd.player - INFO - atk type: <class 'Creature.Attack'>
+2020-12-13 15:16 - dd.player - INFO - atks type: <class 'list'>
+2020-12-13 15:16 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-13 15:16 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 15:16 - dd.player - INFO - In receiveAttack()...
+2020-12-13 15:16 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 15:16 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 15:16 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-13 15:16 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 15:16 - dd.player - INFO - attack contents: 2 points ['Fire'] damage to 0 creatures for 0 energy
+2020-12-13 16:04 - dd - INFO - ~~~~~~~~~~~~
+2020-12-13 16:04 - dd.game - INFO - Creating game object.
+2020-12-13 16:04 - dd.dragons - INFO - Creating Dragonling.
+2020-12-13 16:04 - dd.creature - INFO - Selecting element.
+2020-12-13 16:04 - dd.dragons - INFO - Creating EFDragon.
+2020-12-13 16:04 - dd.dragons - INFO - Creating KFDragon.
+2020-12-13 16:04 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-13 16:04 - dd.golems - INFO - Creating SpGolem.
+2020-12-13 16:04 - dd.golems - INFO - Creating CGolem.
+2020-12-13 16:04 - dd.creature - INFO - Selecting element.
+2020-12-13 16:04 - dd.golems - INFO - Creating MiGolem.
+2020-12-13 16:04 - dd.game - INFO - Starting game.
+2020-12-13 16:04 - dd.game - INFO - Player 1 turn.
+2020-12-13 16:04 - dd.game - INFO - Player 2 turn.
+2020-12-13 16:04 - dd.game - INFO - Player 1 turn.
+2020-12-13 16:04 - dd.game - INFO - Player 2 turn.
+2020-12-13 16:04 - dd.game - INFO - Player 1 turn.
+2020-12-13 16:05 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-13 16:05 - dd.creature - INFO - Choosing attack from list.
+2020-12-13 16:05 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-13 16:05 - dd.dragons - INFO - Reducing energy cost.
+2020-12-13 16:05 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-13 16:05 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-13 16:05 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 16:05 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-13 16:05 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 16:05 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-13 16:05 - dd.dragons - INFO - Appending attack.
+2020-12-13 16:05 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 16:05 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 16:05 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 16:05 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 16:06 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 16:06 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 16:06 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 16:06 - dd.player - INFO - In divideAttack()...
+2020-12-13 16:06 - dd.player - INFO - Returning from divideAttack() [2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 16:06 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-13 16:06 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 16:06 - dd.player - INFO - In receiveAttack()...
+2020-12-13 16:06 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 0 creatures for 0 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 16:06 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 16:06 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-13 16:06 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 16:06 - dd.player - INFO - attack contents: 2 points ['Fire'] damage to 0 creatures for 0 energy
+2020-12-13 16:14 - dd - INFO - ~~~~~~~~~~~~
+2020-12-13 16:14 - dd.game - INFO - Creating game object.
+2020-12-13 16:14 - dd.dragons - INFO - Creating Dragonling.
+2020-12-13 16:14 - dd.creature - INFO - Selecting element.
+2020-12-13 16:14 - dd.dragons - INFO - Creating EFDragon.
+2020-12-13 16:14 - dd.dragons - INFO - Creating KFDragon.
+2020-12-13 16:14 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-13 16:14 - dd.golems - INFO - Creating SpGolem.
+2020-12-13 16:14 - dd.golems - INFO - Creating CGolem.
+2020-12-13 16:14 - dd.creature - INFO - Selecting element.
+2020-12-13 16:14 - dd.golems - INFO - Creating MiGolem.
+2020-12-13 16:14 - dd.game - INFO - Starting game.
+2020-12-13 16:14 - dd.game - INFO - Player 1 turn.
+2020-12-13 16:14 - dd.game - INFO - Player 2 turn.
+2020-12-13 16:14 - dd.game - INFO - Player 1 turn.
+2020-12-13 16:14 - dd.game - INFO - Player 2 turn.
+2020-12-13 16:14 - dd.game - INFO - Player 1 turn.
+2020-12-13 16:14 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-13 16:14 - dd.creature - INFO - Choosing attack from list.
+2020-12-13 16:14 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-13 16:14 - dd.dragons - INFO - Reducing energy cost.
+2020-12-13 16:14 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-13 16:14 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-13 16:14 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 16:14 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-13 16:14 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 16:14 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-13 16:14 - dd.dragons - INFO - Appending attack.
+2020-12-13 16:14 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 16:14 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 16:14 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 16:14 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 16:14 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 16:14 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 16:14 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 16:14 - dd.player - INFO - In divideAttack()...
+2020-12-13 16:14 - dd.player - INFO - Returning from divideAttack() [2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 16:14 - dd.player - INFO - In receiveAttack()...
+2020-12-13 16:14 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 16:14 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 16:14 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-13 16:14 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 16:14 - dd.player - INFO - attack contents: 2 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-13 16:15 - dd.game - INFO - Player 2 turn.
+2020-12-13 17:11 - dd - INFO - ~~~~~~~~~~~~
+2020-12-13 17:11 - dd.game - INFO - Creating game object.
+2020-12-13 17:11 - dd.dragons - INFO - Creating Dragonling.
+2020-12-13 17:11 - dd.creature - INFO - Selecting element.
+2020-12-13 17:12 - dd.dragons - INFO - Creating EFDragon.
+2020-12-13 17:12 - dd.dragons - INFO - Creating KFDragon.
+2020-12-13 17:16 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-13 17:17 - dd.golems - INFO - Creating SpGolem.
+2020-12-13 17:17 - dd.golems - INFO - Creating CGolem.
+2020-12-13 17:17 - dd.creature - INFO - Selecting element.
+2020-12-13 17:17 - dd.golems - INFO - Creating MiGolem.
+2020-12-13 17:18 - dd.game - INFO - Starting game.
+2020-12-13 17:18 - dd.game - INFO - Player 1 turn.
+2020-12-13 17:18 - dd.game - INFO - Player 2 turn.
+2020-12-13 17:18 - dd.game - INFO - Player 1 turn.
+2020-12-13 17:18 - dd.game - INFO - Player 2 turn.
+2020-12-13 17:18 - dd.game - INFO - Player 1 turn.
+2020-12-13 17:18 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-13 17:18 - dd.creature - INFO - Choosing attack from list.
+2020-12-13 17:19 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-13 17:19 - dd.dragons - INFO - Reducing energy cost.
+2020-12-13 17:19 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-13 17:19 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-13 17:19 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 17:19 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-13 17:19 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-13 17:19 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-13 17:19 - dd.dragons - INFO - Appending attack.
+2020-12-13 17:19 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 17:19 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 17:19 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 17:19 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-13 17:21 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 17:21 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-12-13 17:21 - dd.player - INFO - Dividing attack: 2 points ['Fire'] damage to 1 creatures for 0 energy
+2020-12-13 17:21 - dd.player - INFO - In divideAttack()...
+2020-12-13 17:24 - dd.player - INFO - Returning from divideAttack() [2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 17:24 - dd.player - INFO - In receiveAttack()...
+2020-12-13 17:24 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-13 17:24 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 17:24 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-13 17:24 - dd.creature - INFO - Spike Golem taking damage.
+2020-12-13 17:24 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-13 17:24 - dd.player - INFO - attack contents: 2 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-13 17:24 - dd.creature - INFO - Mirrored Golem taking damage.
+2020-12-13 17:24 - dd.game - INFO - Player 2 turn.
+2020-12-14 20:49 - dd - INFO - ~~~~~~~~~~~~
+2020-12-14 20:49 - dd.game - INFO - Creating game object.
+2020-12-14 20:49 - dd.dragons - INFO - Creating Dragonling.
+2020-12-14 20:49 - dd.creature - INFO - Selecting element.
+2020-12-14 20:49 - dd.dragons - INFO - Creating EFDragon.
+2020-12-14 20:49 - dd.dragons - INFO - Creating KFDragon.
+2020-12-14 20:49 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-14 20:49 - dd.golems - INFO - Creating SpGolem.
+2020-12-14 20:49 - dd.golems - INFO - Creating CGolem.
+2020-12-14 20:49 - dd.creature - INFO - Selecting element.
+2020-12-14 20:49 - dd.golems - INFO - Creating MiGolem.
+2020-12-14 20:49 - dd.game - INFO - Starting game.
+2020-12-14 20:49 - dd.game - INFO - Player 1 turn.
+2020-12-14 20:49 - dd.game - INFO - Player 2 turn.
+2020-12-14 20:49 - dd.game - INFO - Player 1 turn.
+2020-12-14 20:49 - dd.game - INFO - Player 2 turn.
+2020-12-14 20:49 - dd.game - INFO - Player 1 turn.
+2020-12-14 20:49 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-14 20:49 - dd.creature - INFO - Choosing attack from list.
+2020-12-14 20:49 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-14 20:49 - dd.dragons - INFO - Reducing energy cost.
+2020-12-14 20:49 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-14 20:49 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-14 20:49 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 20:49 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-14 20:49 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 20:49 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-14 20:49 - dd.dragons - INFO - Appending attack.
+2020-12-14 20:49 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 20:49 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 20:49 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 20:49 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 20:49 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 20:49 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 20:49 - dd.player - INFO - 
+Dividing attack: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 20:49 - dd.player - INFO - In divideAttack()...
+2020-12-14 20:49 - dd.player - INFO - Returning from divideAttack() [1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 20:49 - dd.player - INFO - atk contents: 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 20:49 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 20:49 - dd.player - INFO - In receiveAttack()...
+2020-12-14 20:49 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 20:49 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 20:49 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 20:49 - dd.creature - INFO - Spike Golem taking damage.
+2020-12-14 20:49 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 20:49 - dd.player - INFO - attack contents: 1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 20:49 - dd.creature - INFO - Fire Golem taking damage.
+2020-12-14 21:20 - dd - INFO - ~~~~~~~~~~~~
+2020-12-14 21:20 - dd.game - INFO - Creating game object.
+2020-12-14 21:20 - dd.dragons - INFO - Creating Dragonling.
+2020-12-14 21:20 - dd.creature - INFO - Selecting element.
+2020-12-14 21:20 - dd.dragons - INFO - Creating EFDragon.
+2020-12-14 21:20 - dd.dragons - INFO - Creating KFDragon.
+2020-12-14 21:20 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-14 21:20 - dd.golems - INFO - Creating SpGolem.
+2020-12-14 21:20 - dd.golems - INFO - Creating CGolem.
+2020-12-14 21:20 - dd.creature - INFO - Selecting element.
+2020-12-14 21:20 - dd.golems - INFO - Creating MiGolem.
+2020-12-14 21:20 - dd.game - INFO - Starting game.
+2020-12-14 21:20 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:20 - dd.game - INFO - Player 2 turn.
+2020-12-14 21:20 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:20 - dd.game - INFO - Player 2 turn.
+2020-12-14 21:20 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:20 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-14 21:20 - dd.creature - INFO - Choosing attack from list.
+2020-12-14 21:20 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-14 21:20 - dd.dragons - INFO - Reducing energy cost.
+2020-12-14 21:20 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-14 21:20 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-14 21:20 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 21:20 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-14 21:20 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 21:20 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-14 21:20 - dd.dragons - INFO - Appending attack.
+2020-12-14 21:20 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:20 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 21:20 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:20 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 21:20 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 21:20 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:20 - dd.player - INFO - 
+Dividing attack: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 21:20 - dd.player - INFO - In divideAttack()...
+2020-12-14 21:20 - dd.player - INFO - Returning from divideAttack() [1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:20 - dd.player - INFO - atk contents: 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 21:20 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:20 - dd.player - INFO - In receiveAttack()...
+2020-12-14 21:20 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:20 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:20 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:20 - dd.creature - INFO - Spike Golem taking damage.
+2020-12-14 21:20 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:20 - dd.player - INFO - attack contents: 1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 21:20 - dd.creature - INFO - Fire Golem taking damage.
+2020-12-14 21:30 - dd - INFO - ~~~~~~~~~~~~
+2020-12-14 21:30 - dd.game - INFO - Creating game object.
+2020-12-14 21:30 - dd.dragons - INFO - Creating Dragonling.
+2020-12-14 21:30 - dd.creature - INFO - Selecting element.
+2020-12-14 21:30 - dd.dragons - INFO - Creating EFDragon.
+2020-12-14 21:30 - dd.dragons - INFO - Creating KFDragon.
+2020-12-14 21:30 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-14 21:30 - dd.golems - INFO - Creating SpGolem.
+2020-12-14 21:30 - dd.golems - INFO - Creating CGolem.
+2020-12-14 21:30 - dd.creature - INFO - Selecting element.
+2020-12-14 21:30 - dd.golems - INFO - Creating MiGolem.
+2020-12-14 21:30 - dd.game - INFO - Starting game.
+2020-12-14 21:30 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:30 - dd.game - INFO - Player 2 turn.
+2020-12-14 21:30 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:30 - dd.game - INFO - Player 2 turn.
+2020-12-14 21:30 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:30 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-14 21:30 - dd.creature - INFO - Choosing attack from list.
+2020-12-14 21:30 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-14 21:30 - dd.dragons - INFO - Reducing energy cost.
+2020-12-14 21:30 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-14 21:30 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-14 21:30 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 21:30 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-14 21:30 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 21:30 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-14 21:30 - dd.dragons - INFO - Appending attack.
+2020-12-14 21:30 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:30 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 21:30 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:30 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 21:30 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 21:30 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:30 - dd.player - INFO - 
+Dividing attack: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 21:30 - dd.player - INFO - In divideAttack()...
+2020-12-14 21:30 - dd.player - INFO - Returning from divideAttack() [1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:30 - dd.player - INFO - atk contents: 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 21:30 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:30 - dd.player - INFO - In receiveAttack()...
+2020-12-14 21:30 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:30 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:30 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:30 - dd.creature - INFO - In takeDmg()...
+2020-12-14 21:30 - dd.creature - INFO - Spike Golem taking damage.
+2020-12-14 21:30 - dd.creature - INFO - Attack: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:30 - dd.creature - INFO - Attack returned by modDmg(): 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:30 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:30 - dd.player - INFO - attack contents: 1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 21:30 - dd.creature - INFO - In takeDmg()...
+2020-12-14 21:30 - dd.creature - INFO - Fire Golem taking damage.
+2020-12-14 21:30 - dd.creature - INFO - Attack: 1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 21:30 - dd.creature - INFO - Attack returned by modDmg(): None
+2020-12-14 21:32 - dd - INFO - ~~~~~~~~~~~~
+2020-12-14 21:32 - dd.game - INFO - Creating game object.
+2020-12-14 21:32 - dd.dragons - INFO - Creating Dragonling.
+2020-12-14 21:32 - dd.creature - INFO - Selecting element.
+2020-12-14 21:32 - dd.dragons - INFO - Creating EFDragon.
+2020-12-14 21:32 - dd.dragons - INFO - Creating KFDragon.
+2020-12-14 21:32 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-12-14 21:32 - dd.golems - INFO - Creating SpGolem.
+2020-12-14 21:32 - dd.golems - INFO - Creating CGolem.
+2020-12-14 21:32 - dd.creature - INFO - Selecting element.
+2020-12-14 21:32 - dd.golems - INFO - Creating MiGolem.
+2020-12-14 21:32 - dd.game - INFO - Starting game.
+2020-12-14 21:32 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:32 - dd.game - INFO - Player 2 turn.
+2020-12-14 21:32 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:32 - dd.game - INFO - Player 2 turn.
+2020-12-14 21:32 - dd.game - INFO - Player 1 turn.
+2020-12-14 21:32 - dd.creature - INFO - Fire Dragonling is attacking.
+2020-12-14 21:32 - dd.creature - INFO - Choosing attack from list.
+2020-12-14 21:32 - dd.dragons - INFO - Applying Dragonling energy ability.
+2020-12-14 21:32 - dd.dragons - INFO - Reducing energy cost.
+2020-12-14 21:32 - dd.dragons - INFO - Energy cost reduced to 1
+2020-12-14 21:32 - dd.player - INFO - atkList type: <class 'list'>
+2020-12-14 21:32 - dd.player - INFO - atkList contents: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 21:32 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-12-14 21:32 - dd.dragons - INFO - Current attack list: [3 points Fire damage to 1 creatures for 1 energy]
+2020-12-14 21:32 - dd.dragons - INFO - Number of fire creatures: 3
+2020-12-14 21:32 - dd.dragons - INFO - Appending attack.
+2020-12-14 21:32 - dd.dragons - INFO - New attack list: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:32 - dd.player - INFO - atk contents: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 21:32 - dd.player - INFO - atks contents: [3 points Fire damage to 1 creatures for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:32 - dd.player - INFO - Assigning target for: 3 points Fire damage to 1 creatures for 1 energy
+2020-12-14 21:32 - dd.player - INFO - atk contents: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 21:32 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 2 points ['Fire'] damage to 2 creatures for 0 energy]
+2020-12-14 21:32 - dd.player - INFO - 
+Dividing attack: 2 points ['Fire'] damage to 2 creatures for 0 energy
+2020-12-14 21:32 - dd.player - INFO - In divideAttack()...
+2020-12-14 21:32 - dd.player - INFO - Returning from divideAttack() [1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:32 - dd.player - INFO - atk contents: 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 21:32 - dd.player - INFO - atks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:32 - dd.player - INFO - In receiveAttack()...
+2020-12-14 21:32 - dd.player - INFO - incomingAttacks contents: [3 points Fire damage to Spike Golem for 1 energy, 1 points ['Fire'] damage to Fire Golem for 0 energy, 1 points ['Fire'] damage to Mirrored Golem for 0 energy]
+2020-12-14 21:32 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:32 - dd.player - INFO - attack contents: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:32 - dd.creature - INFO - In takeDmg()...
+2020-12-14 21:32 - dd.creature - INFO - Spike Golem taking damage.
+2020-12-14 21:32 - dd.creature - INFO - Attack: 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:32 - dd.creature - INFO - Attack returned by modDmg(): 3 points Fire damage to Spike Golem for 1 energy
+2020-12-14 21:32 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:32 - dd.player - INFO - attack contents: 1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 21:32 - dd.creature - INFO - In takeDmg()...
+2020-12-14 21:32 - dd.creature - INFO - Fire Golem taking damage.
+2020-12-14 21:32 - dd.creature - INFO - Attack: 1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 21:32 - dd.creature - INFO - Attack returned by modDmg(): -1 points ['Fire'] damage to Fire Golem for 0 energy
+2020-12-14 21:32 - dd.player - INFO - attack type: <class 'Creature.Attack'>
+2020-12-14 21:32 - dd.player - INFO - attack contents: 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 21:32 - dd.creature - INFO - In takeDmg()...
+2020-12-14 21:32 - dd.creature - INFO - Mirrored Golem taking damage.
+2020-12-14 21:32 - dd.creature - INFO - Attack: 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 21:32 - dd.creature - INFO - Attack returned by modDmg(): 1 points ['Fire'] damage to Mirrored Golem for 0 energy
+2020-12-14 21:33 - dd.game - INFO - Player 2 turn.

@@ -11,7 +11,27 @@ import logging
 logging_creature = logging.getLogger('dd.creature') 
 
 class Attack(object):
-    def __init__(self, tipo=[], dmg=0, energyCost=0, targets=1, divisible=False):
+    """
+    Represents either one attack or the part of an attack targeting one creature.
+
+    ...
+
+    Attributes
+    ----------
+    tipo : - str
+        damage type if any, i.e. Fire 
+    dmg : - int
+        amount of damage dealt 
+    energyCost : - int
+        amount of energy required for use 
+    targets : - int
+        max number of targets possible 
+    divisible : - bool 
+        whether damage should be divided between targets 
+    target : - Creature
+        what Creature is being targeted 
+    """
+    def __init__(self, tipo=[], dmg=0, energyCost=0, targets=1, divisible=False, target=None, needsReset=False, active=True):
         if tipo == []:
             self.tipo = ["void"] 
         else:
@@ -20,13 +40,54 @@ class Attack(object):
         self.energyCost = energyCost 
         self.targets = targets 
         self.divisible = divisible 
+        self.target = target 
+        #Remove in case of a divisible attack with limited number of targets 
+        if self.divisible == True and targets == 1:
+            self.targets = dmg 
         
     def __repr__(self):
-        return "%d points %s damage to %d creatures for %d energy" % (self.dmg, self.tipo, self.targets, self.energyCost)
+        if self.target == None:
+            return "%d points %s damage to %d creatures for %d energy" % (self.dmg, self.tipo, self.targets, self.energyCost)
+        else: 
+            return "%d points %s damage to %s for %d energy" % (self.dmg, self.tipo, self.target.name, self.energyCost)
 
 
 class Creature(object):
-    
+    """
+    Any kind of creature a player may have.
+
+    ...
+
+    Attributes
+    ----------
+    name : str
+        creature name 
+    tipo : list
+        creature type(s)  
+    health : int
+        amount of health remaining  
+    ability : str
+        description of creature ability 
+    energyUpkeep : int 
+        amount of energy received per turn 
+    elementList : list
+        creature element(s) if any
+    guardian : bool
+        whether creature appointed as guardian 
+    dmgTaken : int
+        damage taken by creature so far 
+    getCreatureTypes : bool
+        whether creature should be informed of ally types
+    getAllyData : bool 
+        whether creature should have access to allies 
+
+    Methods
+    -------
+    getAttack() -> int:
+        Get user to choose an attack from list.
+    More forthcoming. 
+    """
+
     def __init__(self, name, tipo, health, ability, energyUpkeep, elementList=[], guardian=False): 
         self.name = name
         self.tipo = tipo
@@ -42,6 +103,7 @@ class Creature(object):
         self.dmgTaken = 0 
         self.getCreatureTypes = False 
         self.getAllyData = False 
+        self.abilities = [] 
         
     def getAttack(self) -> int: 
         """Get user to choose an attack from list."""
@@ -56,34 +118,89 @@ class Creature(object):
                 print("Invalid entry")
         return atk - 1
             
+    def hasEnergy(self, attack: Attack) -> bool:
+        """Check if creature has enouh energy for a given attack. Can be overridden if an ability affects this."""
+        if attack.energyCost > self.energy:
+            return False
+        else:
+            return True 
+    
     def attack(self) -> Attack:
-        """Manage all other attacking functions in the Creature class."""
-        logging_creature.info("Attacking.") 
+        """
+        Manage all other attacking functions in the Creature class. 
+        Calls self.getAttack() for user input
+        No longer calls self.modAttack()
+        Checks if creature has enough energy for the attack.
+    
+        Parameters
+        ----------
+        None
+
+        Returns
+        -------
+        atk : - Attack
+            The attack chosen by user from self.attacks[]. 
+        Returns -1 if player chose not to attack with this creature.
+    
+        Example
+        -------
+        atk = attacker.attack() 
+        outgoingAttacks.append(atk) 
+        
+        Called by
+        ---------
+        player.battle() 
+        
+        Calls
+        -----
+        getAttack()
+        hasEnergy()
+    
+        """
+    
+        logging_creature.info(self.name + " is attacking.")  
         while True:
             x = self.getAttack() #Put card attacks in this function? 
-            temp = self.modAttack(self.attacks[x])              
+            atk = self.attacks[x] 
+             
             #If not enough energy: 
-            if temp.energyCost > self.energy:
+            if not self.hasEnergy(atk):
                 print("Not enough energy for this attack.") 
                 while True: #Input validation 
                     choice = input("Choose a different attack? (y/n) ").lower() 
                     if choice == 'n':
                         print("Chose not to attack with this creature.") 
                         return -1
-                    elif choice != 'y':
+                    elif choice == 'y':
+                        print("Choosing a different attack.") 
+                        break
+                    else: 
                         print("Invalid entry.") 
+                        break 
             else:
                 #Able to attack 
-                self.energy -= temp.energyCost 
+                self.energy -= atk.energyCost 
                 self.AP = False 
                 break 
-        return temp
+        return atk
     
     def takeDmg(self, atk: Attack):
-        """Modify an incoming attack as necessary, then subtract damage from health."""
-        logging_creature.info("Modifying attack, then taking damage.") 
+        """Modify an incoming attack as necessary, then subtract damage from health.
+        
+        Called by
+        ---------
+        receiveAttack() 
+        
+        Calls
+        -----
+        modDmg() 
+        """
+        logging_creature.info("In takeDmg()...") 
+        logging_creature.info(self.name + " taking damage.") 
+        logging_creature.info("Attack: " + str(atk)) 
         newAtk = self.modDmg(atk) 
-        self.health = self.health - newAtk.dmg
+        logging_creature.info("Attack returned by modDmg(): " + str(newAtk)) 
+        self.health = self.health - newAtk.dmg 
         self.dmgTaken += newAtk.dmg 
         print("%s took %d damage. Health reduced to: %d" % (self.name, newAtk.dmg, self.health)) 
         
@@ -93,7 +210,7 @@ class Creature(object):
             return False
         else:
             return True
-    
+        
     def addEnergy(self):
         """Add energy based on Creature's unique energy upkeep. Upkeep function."""
         self.energy += self.energyUpkeep 
@@ -101,6 +218,7 @@ class Creature(object):
     def resetAP(self):
         """Give creature AP. Upkeep function."""
         self.AP = True  
+        logging_creature.debug("Resetting AP for ", self.name) 
 
     def setElement(self): 
         """Have user choose an element for a Creature with variable element."""
@@ -109,29 +227,39 @@ class Creature(object):
             print("Available elements: ", self.elementList) 
             while not self.element in self.elementList:
                 print("Choose an element for your %s. " % self.name)
-                self.element = input() 
+                self.element = input().capitalize() 
                 if not self.element in self.elementList:
                     print("Invalid entry.") 
             self.name = self.element + " " + self.name  
             self.tipo.insert(0,self.element) 
 
 #STANDARD FUNCTIONS FOR MODIFYING DAMAGE~~~~~~~~~~~~~~~~~~~~~~
-    def modAttack(self, atk: Attack) -> Attack:
-        """Allow Creature to modify its own outgoing attacks. To be overwritten."""
-        return atk
+    def modAttack(self, atks: list) -> list:
+        """Allow Creature to modify its own outgoing attacks. To be overwritten.
+        
+        Called by
+        ---------
+        buffOutgoing() 
+        """
+        pass 
     
-    def modAllyAttack(self, atk: Attack) -> Attack:
-        """Allow Creature to modify an ally's outgoing attack. To be overwritten."""
-        return atk 
-    
-    def externalUpkeep(self):
-        #TRASH 
-        #To be overwritten. Allows creatures upkeep abilities related to their surroundings
-        #TRASH 
-        pass
+    def modAllyAttack(self, atks: list) -> list:
+        """Allow Creature to modify an ally's outgoing attack. To be overwritten.
+        
+        Called by
+        ---------
+        buffOutgoing() 
+        """
+        pass 
     
     def modDmg(self, atk: "Attack") -> Attack:
-        """Allow Creature to modify or record damage from incoming attacks."""
+        """Allow Creature to modify or record damage from incoming attacks.
+        MUST RETURN ATK
+        
+        Called by
+        ---------
+        creature.takeDmg() 
+        """
         return atk 
 
     def rageUpkeep(self, dmgPerRage):
@@ -139,9 +267,10 @@ class Creature(object):
         self.rage = self.dmgTaken % dmgPerRage  
         print("Rage: ", self.rage) #For testing purposes 
 
-    def buffAttack(self, atk: Attack, damageModifier: int, elementDependence: list=None) -> Attack:
+    def buffAttack(self, atk: Attack, damageModifier: int, elementDependence: list=None):
         """
         Buff/debuff an attack, optionally based on its type. For use in modAttack() and modDmg().
+        SUPPORT FOR LISTS REMOVED 12/14/2020 
 
         Parameters
         ----------
@@ -157,16 +286,27 @@ class Creature(object):
         Attack
             The modified attack.
 
+        Called by
+        ---------
+        modAttack()
+        modDmg()
+        
+        Calls
+        -----
+        None
         """
         if elementDependence == None:
             atk.dmg += damageModifier 
         else: 
-            if atk.tipo in elementDependence:
-                atk.dmg += damageModifier
-        return atk
+            #Apply modifier if requirement met 
+            for value in atk.tipo:
+                if value in elementDependence:
+                    atk.dmg += damageModifier 
+                    return atk 
+        return atk 
     
     def modEnergyCost(self, atk: Attack, energyModifier: int, elementDependence: list=None) -> Attack:
-        """Raise/lower energy cost of an attack, optionally basaed on its type. For use in modAttack()."""
+        """Raise/lower energy cost of an attack, optionally based on its type. For use in modAttack()."""
         if elementDependence == None:
             atk.energyCost += energyModifier  
         else:
@@ -176,11 +316,34 @@ class Creature(object):
     
     def oneTimeAbility(self):
         """Allow Creature to use any one-time abilities triggered at the beginning of the game. To be overwriten."""
-        print() 
+        pass 
         
+    def resetAbilities(self):
+        """First draft for resetting abilities that get triggered once per attack or once per turn."""
+        for ability in self.abilities:
+            if ability.resetAfterAtk:
+                ability.used = False 
     
-    
-    
+    def modAllyIncoming(self, atk: Attack) -> Attack:
+        """
+        Allow modification of attacks targeting allies for creatures with ability to do so. Overwritten by individual creature classes. 
+
+        Parameters
+        ----------
+        atk : Attack
+            The attack to be modified.
+
+        Returns
+        -------
+        Modified attack
+        
+        Called by 
+        ---------
+        player.receiveAttack() 
+
+        """
+        
+        return atk  
     
     
     

@@ -6,6 +6,7 @@ Created on Mon Apr 20 17:53:00 2020
 """
 
 import Dragons as sc
+from Creature import Attack 
 
 def testEFDragon():
     test = sc.EFDragon()
@@ -55,9 +56,110 @@ def testPrints():
     print(test2)
     print(test3)
     
-
+def testModAttacks():
+    d1 = sc.EFDragon()
+    d2 = sc.KFDragon()
+    d3 = sc.Dragonling() 
+    attacks = []
+    #~~~EFDragon~~~
+    #Test 1
+    atk = Attack(tipo=["Dragon", "Fire"],dmg=3,energyCost=3) 
+    attacks.append(atk) 
+    # print(attacks) 
+    d1.modAttack(attacks) 
+    assert attacks[0].dmg == 5, "Should be 5dmg" 
+    #Test 2
+    atk = Attack(tipo=["Dragon"],dmg=3)
+    attacks[0] = atk 
+    d1.modAttack(attacks)
+    assert attacks[0].dmg == 3, "Should be 3dmg" 
+    #Test 3
+    atk = Attack(tipo=["Physical"],dmg=6)
+    d1.takeDmg(atk)
+    d1.rageUpkeep(5) 
+    assert d1.rage == 1, "Should have 1 rage"
+    #~~~KFDragon~~~
+    d2.creatureTypes = ["Fire", "Fire", "Fire"]
+    #Test 1
+    atk = Attack(tipo=["Dragon","Fire"],dmg=2)
+    attacks[0] = atk
+    d2.modAttack(attacks)
+    assert len(attacks) == 2, "Should be length 2"
+    # print(attacks) 
+    assert attacks[1].dmg == 2, "Should be 2dmg" 
+    #Test 2
+    attacks = []
+    atk = Attack(tipo=["Physical"], dmg=3)
+    attacks.append(atk) 
+    d2.modAttack(attacks)
+    assert len(attacks) == 1, "Should be length 1"
+    assert attacks[0].dmg == 3, "Should still be 3dmg"
+    #Test 3
+    d2.modAllyAttack(attacks)
+    assert len(attacks) == 1, "Should be length 1"
+    assert attacks[0].dmg == 3, "Should still be 3dmg"
+    #Test 4
+    atk = Attack(tipo=["Dragon", "Fire"], dmg=4)
+    attacks[0] = atk 
+    d2.modAllyAttack(attacks)
+    assert len(attacks) == 2, "Should be length 2"
+    assert attacks[0].dmg == 4, "Should still be 4dmg"
+    # print(attacks) 
+    assert attacks[1].dmg == 2, "Should be 2dmg" 
+    #~~~Dragonling~~~
+    attacks = []
+    #test 1
+    atk = Attack(tipo=["Fire"], dmg=2)
+    attacks.append(atk) 
+    d3.modAttack(attacks) 
+    print(attacks) 
+    assert attacks[0].dmg == 1, "Should be 1dmg"
+    #Test 2
+    atk = Attack(tipo=["Dragon"], dmg=4)
+    attacks[0] = atk
+    d3.modAttack(attacks)
+    assert attacks[0].dmg == 2, "Should be 2dmg"
+    
+    print("testModAttacks() all tests passed.") 
+    
+def testHasEnergy():
+    d1 = sc.KFDragon()
+    d2 = sc.Dragonling()
+    
+    #~~~Not Dragonling~~~
+    #Test 1
+    atk = Attack(tipo=["Dragon"],dmg=2,energyCost=2)
+    assert d1.hasEnergy(atk) == False, "Should be False" 
+    #Test 2
+    d1.addEnergy()
+    assert d1.hasEnergy(atk) == True, "Should be True"
+    #~~~Dragonling~~~
+    #Test 1
+    atk = Attack(tipo=["Dragon"],dmg=2,energyCost=2)
+    assert d2.hasEnergy(atk) == False, "Should be False"
+    #Test 2
+    d2.addEnergy()
+    assert d2.hasEnergy(atk) == True, "Should be True"
+    #Test 3
+    atk = Attack(tipo=["Dragon"],dmg=2,energyCost=3)
+    d2.hasEnergy(atk)
+    assert atk.energyCost == 1, "Should be 1 energy"
+    #Test 4
+    atk = Attack(tipo=["Dragon"],dmg=2,energyCost=4)
+    d2.hasEnergy(atk)
+    assert atk.energyCost == 2, "Should be 2 energy" 
+    #Test 5
+    atk = Attack(tipo=["Fire"],dmg=2,energyCost=3)
+    assert d2.hasEnergy(atk) == True, "Should be True" 
+    #Test 6
+    atk = Attack(tipo=["Physical"],dmg=2,energyCost=3)
+    assert d2.hasEnergy(atk) == False, "Should be False" 
+    
+    print("hasEnergy() all tests passed.") 
 if __name__ == '__main__':
-    testPrints()
-    testEFDragon()
-    testKFDragon()
-    testDragonling()
+    # testPrints()
+    # testEFDragon()
+    # testKFDragon()
+    # testDragonling()
+    # testModAttacks() 
+    testHasEnergy() 

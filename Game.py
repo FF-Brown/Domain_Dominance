@@ -18,8 +18,8 @@ class Game(object):
     
     def __init__(self):
         logger_game.info("Creating game object.") 
-        self.player1 = pl.Player(1, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck.csv")
-        self.player2 = pl.Player(2, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Documents\TestDeck2.csv")
+        self.player1 = pl.Player(1, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Docs\TestDeck.csv")
+        self.player2 = pl.Player(2, r"C:\Users\Nathan\Documents\Drive Sync\Domain_Dominance\Docs\TestDeck2.csv")
         self.turn = 0
         self.currentPlayer = self.player1
         self.opponent = self.player2 

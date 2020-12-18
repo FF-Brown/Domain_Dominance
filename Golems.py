@@ -25,14 +25,14 @@ class CGolem(Creature):
     def __init__(self):
         logger_golems.info("Creating CGolem.") 
         self.element = "void"
-        super(CGolem,self).__init__("Golem", ["Golem"], 55, "+2 (Fire/Water/Ice) Protection", 2, ["Fire", "Water", "Ice"]) 
+        super(CGolem,self).__init__(name="Golem", tipo=["Golem"], health=55, ability="+2 (Fire/Water/Ice) Protection", energyUpkeep=2, elementList=["Fire", "Water", "Ice"]) 
         self.attacks.append(Attack(self.element, 1, 1))
         self.attacks.append(Attack(self.element, 2))
     def __repr__(self):
         return "\n%s\t%d Health\n\n%s %s\n%s\n%s" % (self.name, self.health, self.element, self.tipo, str(self.attacks), self.ability)
     def modDmg(self, atk: Attack) -> Attack:
-        atk = self.buffAttack(atk, -2, [self.element])
-        return atk
+        atk = self.buffAttack(atk, -2, [self.element]) 
+        return atk 
 
 class MiGolem(Creature):
     def __init__(self):

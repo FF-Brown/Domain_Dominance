@@ -6,7 +6,7 @@ Created on Sun May 10 19:43:37 2020
 """
 
 from Creature import Attack 
-from Dragons import Dragonling, EFDragon 
+from Dragons import Dragonling, EFDragon, KFDragon 
 from Golems import SpGolem, CGolem 
 
 def testAddEnergy():
@@ -73,11 +73,36 @@ def testModAttack():
     
     print("modAttack(): All tests passed.") 
     
-
+def testAttack():
+    test = KFDragon() 
+    #Not enough energy, choose different attack
+    test.addEnergy() 
+    test.addEnergy() 
+    print("Test msg: Choose attack 2, then attack 1.")
+    atk = test.attack() 
+    assert type(atk) == type(Attack()), "Should be an Attack object"
+    assert atk.dmg == 3, "Should be 3 dmg"
+    
+    #Not enough energy, choose not to attack
+    print("Test msg: Choose attack 2, then choose not to attack.") 
+    atk = test.attack() 
+    assert type(atk) == int, "Should be an int"
+    assert atk == -1, "Should be -1" 
+    
+    #Enough energy, attacking
+    test.addEnergy()
+    test.addEnergy() 
+    print("Test msg: Choose attack 1.") 
+    atk = test.attack() 
+    assert atk.dmg == 3, "Should be 3 dmg"
+    assert atk.energyCost == 3, "Should cost 3 energy" 
+    
+    print("All tests passed.") 
 
 if __name__ == '__main__':
     # testSetElement() 
     # testAddEnergy() 
     # testModAttack() 
-    testTakeDmg()
+    # testTakeDmg()
+    testAttack()
 

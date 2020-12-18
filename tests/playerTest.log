@@ -1,0 +1,291 @@
+2020-10-17 22:18 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:18 - dd.creature - INFO - Selecting element.
+2020-10-17 22:18 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:18 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:18 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:20 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:20 - dd.creature - INFO - Selecting element.
+2020-10-17 22:20 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:20 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:20 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:20 - dd.creature - INFO - Selecting element.
+2020-10-17 22:20 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:20 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:20 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:40 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:40 - dd.creature - INFO - Selecting element.
+2020-10-17 22:40 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:40 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:41 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:42 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:42 - dd.creature - INFO - Selecting element.
+2020-10-17 22:42 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:42 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:42 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:42 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-10-17 22:44 - dd - INFO - ~~~~~~~~~~~~
+2020-10-17 22:44 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:44 - dd.creature - INFO - Selecting element.
+2020-10-17 22:44 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:44 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:44 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:44 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-10-17 22:46 - dd - INFO - ~~~~~~~~~~~~
+2020-10-17 22:46 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:46 - dd.creature - INFO - Selecting element.
+2020-10-17 22:46 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:46 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:46 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:46 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-10-17 22:46 - dd.dragons - INFO - Current attack list: [1 points ['Fire'] damage to 1 creatures for 2 energy]
+2020-10-17 22:46 - dd.dragons - INFO - Number of fire creatures: 0
+2020-10-17 22:49 - dd - INFO - ~~~~~~~~~~~~
+2020-10-17 22:49 - dd.dragons - INFO - Creating Dragonling.
+2020-10-17 22:49 - dd.creature - INFO - Selecting element.
+2020-10-17 22:49 - dd.dragons - INFO - Creating EFDragon.
+2020-10-17 22:49 - dd.dragons - INFO - Creating KFDragon.
+2020-10-17 22:49 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-10-17 22:49 - dd.dragons - INFO - KFDragon is modifying ally's attack.
+2020-10-17 22:49 - dd.dragons - INFO - Current attack list: [1 points ['Fire'] damage to 1 creatures for 2 energy]
+2020-10-17 22:49 - dd.dragons - INFO - Number of fire creatures: 3
+2020-10-17 22:49 - dd.dragons - INFO - Appending attack.
+2020-10-17 22:49 - dd.dragons - INFO - New attack list: [1 points ['Fire'] damage to 1 creatures for 2 energy, 2 points ['Fire'] damage to 1 creatures for 0 energy]
+2020-11-06 17:43 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 17:45 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 17:45 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 17:45 - dd.creature - INFO - Selecting element.
+2020-11-06 17:45 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 17:45 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 17:45 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 17:45 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 17:45 - dd.golems - INFO - Creating CGolem.
+2020-11-06 17:45 - dd.creature - INFO - Selecting element.
+2020-11-06 17:45 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 18:31 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 18:31 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 18:31 - dd.creature - INFO - Selecting element.
+2020-11-06 18:31 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 18:31 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 18:31 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 18:31 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 18:31 - dd.golems - INFO - Creating CGolem.
+2020-11-06 18:31 - dd.creature - INFO - Selecting element.
+2020-11-06 18:31 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 18:51 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 18:51 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 18:51 - dd.creature - INFO - Selecting element.
+2020-11-06 18:51 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 18:51 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 18:51 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 18:51 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 18:51 - dd.golems - INFO - Creating CGolem.
+2020-11-06 18:51 - dd.creature - INFO - Selecting element.
+2020-11-06 18:51 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 18:51 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 18:51 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 18:51 - dd.creature - INFO - Selecting element.
+2020-11-06 18:51 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 18:51 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 18:51 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 18:51 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 18:51 - dd.golems - INFO - Creating CGolem.
+2020-11-06 18:51 - dd.creature - INFO - Selecting element.
+2020-11-06 18:51 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 18:56 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 18:56 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 18:56 - dd.creature - INFO - Selecting element.
+2020-11-06 18:56 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 18:56 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 18:56 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 18:56 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 18:56 - dd.golems - INFO - Creating CGolem.
+2020-11-06 18:56 - dd.creature - INFO - Selecting element.
+2020-11-06 18:56 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 18:58 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 18:58 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 18:58 - dd.creature - INFO - Selecting element.
+2020-11-06 18:58 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 18:58 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 18:58 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 18:58 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 18:58 - dd.golems - INFO - Creating CGolem.
+2020-11-06 18:58 - dd.creature - INFO - Selecting element.
+2020-11-06 18:58 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 18:58 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 18:58 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 18:58 - dd.creature - INFO - Selecting element.
+2020-11-06 18:58 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 18:58 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 18:58 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 18:58 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 18:58 - dd.golems - INFO - Creating CGolem.
+2020-11-06 18:58 - dd.creature - INFO - Selecting element.
+2020-11-06 18:58 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:00 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:00 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:00 - dd.creature - INFO - Selecting element.
+2020-11-06 19:00 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:00 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:00 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:00 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:00 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:00 - dd.creature - INFO - Selecting element.
+2020-11-06 19:00 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:09 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:09 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:09 - dd.creature - INFO - Selecting element.
+2020-11-06 19:09 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:09 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:09 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:09 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:09 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:09 - dd.creature - INFO - Selecting element.
+2020-11-06 19:09 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:11 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:11 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:11 - dd.creature - INFO - Selecting element.
+2020-11-06 19:11 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:11 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:11 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:11 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:11 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:11 - dd.creature - INFO - Selecting element.
+2020-11-06 19:11 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:13 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:13 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:13 - dd.creature - INFO - Selecting element.
+2020-11-06 19:13 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:13 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:13 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:13 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:13 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:13 - dd.creature - INFO - Selecting element.
+2020-11-06 19:13 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:16 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:16 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:16 - dd.creature - INFO - Selecting element.
+2020-11-06 19:16 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:16 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:16 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:16 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:16 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:16 - dd.creature - INFO - Selecting element.
+2020-11-06 19:16 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:16 - dd.player - INFO - Before Dmg:5
+2020-11-06 19:16 - dd.player - INFO - Input damage:5
+2020-11-06 19:16 - dd.player - INFO - Assigned damage:5
+2020-11-06 19:16 - dd.player - INFO - Updated atk damage:0
+2020-11-06 19:17 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:17 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:17 - dd.creature - INFO - Selecting element.
+2020-11-06 19:17 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:17 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:17 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:17 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:17 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:17 - dd.creature - INFO - Selecting element.
+2020-11-06 19:17 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:17 - dd.player - INFO - Before Dmg:5
+2020-11-06 19:17 - dd.player - INFO - Input damage:1
+2020-11-06 19:17 - dd.player - INFO - Assigned damage:1
+2020-11-06 19:17 - dd.player - INFO - Updated atk damage:4
+2020-11-06 19:17 - dd.player - INFO - Before Dmg:4
+2020-11-06 19:17 - dd.player - INFO - Input damage:2
+2020-11-06 19:17 - dd.player - INFO - Assigned damage:2
+2020-11-06 19:17 - dd.player - INFO - Updated atk damage:2
+2020-11-06 19:17 - dd.player - INFO - Before Dmg:2
+2020-11-06 19:17 - dd.player - INFO - Remaining damage. Dmg:2
+2020-11-06 19:24 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:24 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:24 - dd.creature - INFO - Selecting element.
+2020-11-06 19:24 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:24 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:24 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:24 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:24 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:24 - dd.creature - INFO - Selecting element.
+2020-11-06 19:24 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:24 - dd.player - INFO - Before Dmg:5
+2020-11-06 19:24 - dd.player - INFO - Input damage:4
+2020-11-06 19:24 - dd.player - INFO - Assigned damage:4
+2020-11-06 19:24 - dd.player - INFO - Updated atk damage:1
+2020-11-06 19:25 - dd.player - INFO - Before Dmg:1
+2020-11-06 19:25 - dd.player - INFO - Input damage:1
+2020-11-06 19:25 - dd.player - INFO - Assigned damage:1
+2020-11-06 19:25 - dd.player - INFO - Updated atk damage:0
+2020-11-06 19:26 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:26 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:26 - dd.creature - INFO - Selecting element.
+2020-11-06 19:26 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:26 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:26 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:26 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:26 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:26 - dd.creature - INFO - Selecting element.
+2020-11-06 19:26 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:27 - dd.player - INFO - Before Dmg:5
+2020-11-06 19:27 - dd.player - INFO - Input damage:4
+2020-11-06 19:27 - dd.player - INFO - Assigned damage:4
+2020-11-06 19:27 - dd.player - INFO - Updated atk damage:1
+2020-11-06 19:27 - dd.player - INFO - Before Dmg:1
+2020-11-06 19:27 - dd.player - INFO - Input damage:1
+2020-11-06 19:27 - dd.player - INFO - Assigned damage:1
+2020-11-06 19:27 - dd.player - INFO - Updated atk damage:0
+2020-11-06 19:30 - dd - INFO - ~~~~~~~~~~~~
+2020-11-06 19:30 - dd.dragons - INFO - Creating Dragonling.
+2020-11-06 19:30 - dd.creature - INFO - Selecting element.
+2020-11-06 19:30 - dd.dragons - INFO - Creating EFDragon.
+2020-11-06 19:30 - dd.dragons - INFO - Creating KFDragon.
+2020-11-06 19:30 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-06 19:30 - dd.golems - INFO - Creating SpGolem.
+2020-11-06 19:30 - dd.golems - INFO - Creating CGolem.
+2020-11-06 19:30 - dd.creature - INFO - Selecting element.
+2020-11-06 19:30 - dd.golems - INFO - Creating MiGolem.
+2020-11-06 19:30 - dd.player - INFO - Before Dmg:5
+2020-11-06 19:30 - dd.player - INFO - Input damage:4
+2020-11-06 19:30 - dd.player - INFO - Assigned damage:4
+2020-11-06 19:30 - dd.player - INFO - Updated atk damage:1
+2020-11-06 19:30 - dd.player - INFO - Before Dmg:1
+2020-11-06 19:30 - dd.player - INFO - Input damage:1
+2020-11-06 19:30 - dd.player - INFO - Assigned damage:1
+2020-11-06 19:30 - dd.player - INFO - Updated atk damage:0
+2020-11-16 20:36 - dd - INFO - ~~~~~~~~~~~~
+2020-11-16 20:36 - dd.dragons - INFO - Creating Dragonling.
+2020-11-16 20:36 - dd.creature - INFO - Selecting element.
+2020-11-16 20:36 - dd.dragons - INFO - Creating EFDragon.
+2020-11-16 20:36 - dd.dragons - INFO - Creating KFDragon.
+2020-11-16 20:36 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-16 20:36 - dd.golems - INFO - Creating SpGolem.
+2020-11-16 20:36 - dd.golems - INFO - Creating CGolem.
+2020-11-16 20:36 - dd.creature - INFO - Selecting element.
+2020-11-16 20:36 - dd.golems - INFO - Creating MiGolem.
+2020-11-16 20:36 - dd.player - INFO - Before Dmg:5
+2020-11-16 20:36 - dd.player - INFO - Input damage:1
+2020-11-16 20:36 - dd.player - INFO - Assigned damage:1
+2020-11-16 20:36 - dd.player - INFO - Updated atk damage:4
+2020-11-16 20:36 - dd.player - INFO - Before Dmg:4
+2020-11-16 20:36 - dd.player - INFO - Input damage:1
+2020-11-16 20:36 - dd.player - INFO - Assigned damage:1
+2020-11-16 20:36 - dd.player - INFO - Updated atk damage:3
+2020-11-16 20:36 - dd.player - INFO - Before Dmg:3
+2020-11-16 20:36 - dd.player - INFO - Remaining damage. Dmg:3
+2020-11-16 20:37 - dd - INFO - ~~~~~~~~~~~~
+2020-11-16 20:37 - dd.dragons - INFO - Creating Dragonling.
+2020-11-16 20:37 - dd.creature - INFO - Selecting element.
+2020-11-16 20:37 - dd.dragons - INFO - Creating EFDragon.
+2020-11-16 20:37 - dd.dragons - INFO - Creating KFDragon.
+2020-11-16 20:37 - dd.dragons - INFO - Dragonling is borrowing attacks.
+2020-11-16 20:37 - dd.golems - INFO - Creating SpGolem.
+2020-11-16 20:37 - dd.golems - INFO - Creating CGolem.
+2020-11-16 20:37 - dd.creature - INFO - Selecting element.
+2020-11-16 20:37 - dd.golems - INFO - Creating MiGolem.
+2020-11-16 20:37 - dd.player - INFO - Before Dmg:5
+2020-11-16 20:37 - dd.player - INFO - Input damage:1
+2020-11-16 20:37 - dd.player - INFO - Assigned damage:1
+2020-11-16 20:37 - dd.player - INFO - Updated atk damage:4
+2020-11-16 20:37 - dd.player - INFO - Before Dmg:4
+2020-11-16 20:37 - dd.player - INFO - Input damage:1
+2020-11-16 20:37 - dd.player - INFO - Assigned damage:1
+2020-11-16 20:37 - dd.player - INFO - Updated atk damage:3
+2020-11-16 20:37 - dd.player - INFO - Before Dmg:3
+2020-11-16 20:37 - dd.player - INFO - Remaining damage. Dmg:3
